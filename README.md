@@ -1,6 +1,6 @@
 # BackPropagation
 
-Build a Neural Network using BackPropagation Algorithm.
+Build your Neural Network using BackPropagation Algorithm.
 
 You can build a multi-layer and Elman NN.
 
